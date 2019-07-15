@@ -1,0 +1,17 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+ body {
+   background-color: purple;
+   text-align: center;
+ }
+ #demo {
+   border-radius: 10px;
+ }
+img {
+  height: 80px;
+  width: 60px;
+
+
+}
